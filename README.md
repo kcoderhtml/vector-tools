@@ -1,5 +1,7 @@
 # vector-tools
 
+![a gif the program adding vectors](.github/images/vhs.gif)
+
 To install dependencies:
 
 ```bash
